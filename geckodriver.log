@@ -1,0 +1,8 @@
+1554610614456	geckodriver	INFO	geckodriver 0.20.1
+1554610614465	geckodriver	INFO	Listening on 127.0.0.1:51066
+1554610617572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\11029\\AppData\\Local\\Temp\\rust_mozprofile.FwBp6nheWPZ7"
+Unable to read VR Path Registry from C:\Users\11029\AppData\Local\openvr\openvrpaths.vrpath
+1554610618067	Marionette	INFO	Enabled via --marionette
+1554610619500	Marionette	INFO	Listening on port 51080
+1554610619594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
